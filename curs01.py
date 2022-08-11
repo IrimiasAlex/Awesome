@@ -1,1 +1,0 @@
-print("Primul nostru mesaj")
