@@ -1,0 +1,27 @@
+Softing
+
+Fieldbus este denumirea unei familii de protocoale de comunicare pentru aplicații industriale. Rețelele Fieldbus sunt, de obicei, utilizate pentru conectarea diferiților senzori și actuatoare la unitățile de control.
+
+Un PLC este un sistem electronic de lucru digital destinat utilizării în medii industriale cu o memorie programabilă pentru stocarea internă a instrucțiunilor de control orientate de utilizator pentru implementarea funcțiilor specifice, cum ar fi controlul logic, controlul secvenței, timpul, numărarea și funcțiile aritmetice, prin intrare digitală sau analogică și semnale de ieșire pentru controlul diferitelor tipuri de mașini și procese.
+
+Jenkins este un server de integrare continuă open source capabil să orchestreze un lanț de acțiuni care ajută la realizarea procesului de integrare continuă (și nu numai) într-un mod automat.
+
+O mașină virtuală (VM) este un program software care prezintă comportamentul unui computer separat si este capabil să îndeplinească sarcini precum rularea aplicațiilor și a programelor precum un computer separat. O mașină virtuală, de obicei cunoscută ca oaspete, este creată într-un alt mediu de calcul denumit „gazdă”. Mai multe mașini virtuale pot exista în cadrul unei singure gazde simultan.
+
+VMware ESXi Server este un software de virtualizare computerizat dezvoltat de VMware Inc. Serverul ESXi este o versiune avansată, cu o amprentă mai mică, a VMware ESX Server, produsul software de virtualizare a computerului la nivel de întreprindere VMware. Implementat în cadrul VMware Infrastructure, ESXi poate fi utilizat pentru a facilita managementul centralizat pentru computerele desktop și aplicațiile pentru centrele de date.
+
+PRODUSE: gATEWAYS--> O poartă de acces (gateway) este un punct din reţea care serveşte ca intrare către altă reţea şi trimite datele transmise prin reţea la o destinaţie precisă. Ruterul ştie unde să direcţioneze datele care ajung la poarta de acces (gateway).
+Network Management Tools -> permit punerea în funcțiune, monitorizarea și depanarea dispozitivelor.
+Network Testers and Analyzers -->testează conectivitatea și durabilitatea ansamblurilor cu fir și a parametrilor rețelelor de comunicații industriale.
+Fiber Optic Media Converters
+
+Protocoale de comunicatie
+common module MBP
+opc UA
+mqtt
+rest api
+ce folositi pentru
+MARIS
+1. La "Case of Studies" indiferent ce accesez( Food & Drink, Entertainment, Beauty etc.) apar aceleasi rezultate de la "Food and Drink" - eroare mare
+2. Nu am buton de "back home''(pe pagina oficiala Meraki) pe nici o categorie de produse (Black ass jerk co, etc. etc.) - trebuie mers cu sageata de back
+3."About us" de pe pagina principala nu functioneaza, nu ma redirectioneaza spre sectiunea deidcata.
