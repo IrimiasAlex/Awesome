@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "c:\Users\E1328977\Desktop\Robocorp-trainingprojects\Robocorp-trainingprojects\MSOL_682_Supplier_Price_validity_log_for_Manifolds\MSOL_682_robo_py\task.py", line 1, in <module>
+    import pdfplumber
+ModuleNotFoundError: No module named 'pdfplumber'
